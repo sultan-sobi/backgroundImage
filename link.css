@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg-image{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/473569488_3888203968057678_5580908383967041850_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ersqdGs5mrYQ7kNvgE7ia5j&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=AcSCpNkDoeIlUxaKoXy33jM&oh=00_AYB-OVjx3Q0fPqpC0rPJP8ZCFyr3l7HZctB2NvSF4gO3Nw&oe=678E296C");
+    background-position: fixed;
+    background-attachment: fixed;
+    background-size: 160%;
+    background-repeat: no-repeat;
+
+}
+.container{
+    padding: 20px;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
